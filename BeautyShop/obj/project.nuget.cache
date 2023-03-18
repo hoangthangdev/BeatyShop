@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjAGx3+3YJC/NKWVZ5Lh6ui/bOzv5FmBzqRSTcM7nSd1KmbnHZe2eZnf91f9RzawxtloWpcazbzUDyZ8O6nyhg==",
+  "success": true,
+  "projectFilePath": "C:\\BeautyShop\\BeautyShop\\BeautyShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
